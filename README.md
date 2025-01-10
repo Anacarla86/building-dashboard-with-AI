@@ -3,18 +3,18 @@
 
 
 ## 📒 Descrição
-Dashboard de excel sobre Controle Financeiro, criado com dados fictícios utilizando a função "=aleatorioentre" e imagens geradas por meio de IA.
+Dashboard de excel sobre dados ficticiosControle Financeiro, criado com dados fictícios de producao x gestor x datas gerado pela IA atraves do chatGPT
 
 ## 🤖 Tecnologias Utilizadas
 - Excel;
-- **[Canva](https://www.canva.com/)** para criação de imagens;
+- ChatGPT
 
 
 ## 🧐 Processo de Criação
-Criei uma planilha de excel com dados como Data de entrada e de saída de cada valor, valores recebidos, valores gastos e suas especificações, bem como as economias depositadas (Caixinha). Construí um Dashboard com gráficos e cartões de informação, a partir das informações relevantes geradas por meio de tabelas dinâmicas, segmentados por período. Os ícones foram gerados por IA no CANVA.
+Criei uma planilha de excel com dados como nome, gestor, matrícula, Data de entrada e de saída de cada valor, dados de meta e produção. Construí um Dashboard com os dados por gestor, mes e ano, a partir das informações relevantes geradas por meio de tabelas dinâmica.
 
 ## 🚀 Resultados
-Por meio do DASHBOARD criado foi possível ter acesso e acompanhar de forma prática e dinâmica o controle financeiro pessoal, contribuindo para a melhoria da educação financeira.
+Por meio do DASHBOARD criado foi possível ter acesso e acompanhar de forma prática e dinâmica os valores totais por gestor, mes e ano, contribuindo para novas estrategias de gestao
 
 ## Link para o material
 [DASHBOARD - Controle Financeiro.xlsx](https://github.com/user-attachments/files/18223668/DASHBOARD.-.Controle.Financeiro.xlsx)
