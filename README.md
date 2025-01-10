@@ -3,7 +3,7 @@
 
 
 ## 📒 Descrição
-Dashboard de excel sobre dados ficticiosControle Financeiro, criado com dados fictícios de producao x gestor x datas gerado pela IA atraves do chatGPT
+Dashboard de excel sobre dados ficticios, criado com dados fictícios de producao x gestor x datas gerado pela IA atraves do chatGPT
 
 ## 🤖 Tecnologias Utilizadas
 - Excel;
